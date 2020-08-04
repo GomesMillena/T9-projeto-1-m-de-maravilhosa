@@ -230,10 +230,10 @@ main {
 }
 
 .wonderful__to__authors {
-  margin: 7% 38%;
+  margin: 5% 35%;
   text-align: justify;
-  padding: 1% 13%;
-  border-radius: 5px;
+  padding: 0% 5%;
+  border-radius: 10px;
   color: white;
   background-color: #63458A;
   display: block;
@@ -403,7 +403,7 @@ main {
   }
 
   .wonderful__to__authors {
-    margin: 5% 40%;
+    margin: 5% 35%;
   }
 
 }
