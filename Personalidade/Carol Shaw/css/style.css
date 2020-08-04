@@ -208,9 +208,10 @@ main {
   display: flex;
   padding-right: 5em;
   margin: 0cm;
-  padding-left: 15em;
+  padding-left: 5em;
   align-items: center;
 }
+
 
 .image_author {
   width: 30%;
@@ -219,6 +220,7 @@ main {
   margin-right: 10%;
   padding-top: 0%;
 }
+
 
 .author_credentials {
   list-style: none;
@@ -231,7 +233,7 @@ main {
 
 .wonderful__to__authors {
   margin: 5% 35%;
-  text-align: justify;
+  text-align: center;
   padding: 0% 5%;
   border-radius: 10px;
   color: white;
@@ -403,8 +405,17 @@ main {
   }
 
   .wonderful__to__authors {
-    margin: 5% 35%;
+    margin: 5% 45%;
   }
+
+  /*.image_author {
+    width: 100%;
+    margin-top: -10%;
+    margin-left: -40%;
+    margin-right: 15px;
+    padding-top: 20px;
+  }
+  */
 
 }
 
